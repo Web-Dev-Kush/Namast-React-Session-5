@@ -3,32 +3,34 @@ Namaste React Course by Akshay Saini
 Chapter 05 - Let's get Hooked!
 
 Theory Assignment:
-What is the difference between Named export, Default export, and * as export?
 
-What is the importance of config.js file?
+Q1. What is the difference between Named export, Default export, and * as export?
 
-What are React Hooks?
+Q2. What is the importance of config.js file?
 
-Why do we need useState Hook?
+Q3. What are React Hooks?
+
+Q4. Why do we need useState Hook?
 
 Coding Assignment:
 
-Clean up your code.
+1.  Clean up your code.
 
-Create a Folder Structure for your app.
+2.  Create a Folder Structure for your app.
 
-Make different files for each Component.
+3.  Make different files for each Component.
 
-Create a config file.
+4.  Create a config file.
 
-Use all types of import and export.
+5.  Use all types of import and export.
 
-Create a Search Box in your App.
+6.  Create a Search Box in your App.
 
-Use useState to create a variable and bind it to the input box.
+7.  Use useState to create a variable and bind it to the input box.
 
-Try to make your search bar work.
+8.  Try to make your search bar work.
 
 
 References:
+
 Akshay Saini Code Link
